@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ibrahim Abdallah</h1>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<!--
-**ibrahim-gabr/ibrahim-gabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [http://iabdallah.com](http://iabdallah.com)
 
-Here are some ideas to get you started:
+- 💬 Ask me about **React, NextJS, Svelte, NodeJS, TailwindCSS, Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **iageoscience@live.com**
+
+![Profile views](https://gpvc.arturio.dev/webdevsamurai)  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevsamurai&show_icons=true&locale=en&layout=compact" alt="webdevsamurai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevsamurai&show_icons=true&locale=en&count_private=true" alt="webdevsamurai" /></p>
